@@ -5,5 +5,11 @@
 (defn -main [& args]
   (let [foo (Foo.)]
     (.saySomething foo)
-    (println "I am in bar.clj!!!")))
+    (println "I am in bar.clj!!!")
+    )
+  )
 
+(defn transform* [person]
+  (-> person
+      (assoc :hair-color :gray)
+      )
