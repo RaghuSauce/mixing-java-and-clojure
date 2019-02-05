@@ -15,9 +15,15 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="groovy-2.5.5" level="application" />
     <orderEntry type="library" name="Leiningen: clojure-complete:0.2.4" level="project" />
+    <orderEntry type="library" name="Leiningen: lancet:1.0.1" level="project" />
+    <orderEntry type="library" name="Leiningen: lein-groovyc:0.2.1" level="project" />
+    <orderEntry type="library" name="Leiningen: org.apache.ant/ant-launcher:1.7.1" level="project" />
+    <orderEntry type="library" name="Leiningen: org.apache.ant/ant-nodeps:1.7.1" level="project" />
+    <orderEntry type="library" name="Leiningen: org.apache.ant/ant:1.7.1" level="project" />
     <orderEntry type="library" name="Leiningen: org.clojure/clojure:1.6.0" level="project" />
     <orderEntry type="library" name="Leiningen: org.clojure/tools.nrepl:0.2.12" level="project" />
-    <orderEntry type="library" name="groovy-2.5.5" level="application" />
+    <orderEntry type="library" name="Leiningen: org.codehaus.groovy/groovy-all:1.7.10" level="project" />
   </component>
 </module>
